@@ -11,4 +11,4 @@ Based on Buildroot at first, I am providing the tinux_defconfig file and Buildro
   
 ### Note: The buildroot release used is the latest stable. 
 I haven't tried using Buildroot directly via source control with it working, due to me learning how to use .config and defconfigs on the 
-stable releas,e 2019.02.8 as of writing this README.   
+stable release, 2019.02.8 as of writing this README.   
